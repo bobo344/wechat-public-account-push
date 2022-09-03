@@ -24,7 +24,7 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '小张', id: "o9PqZ5iihCPuUOz3SfXo7LIQOQu8"}, 
+      {name: '小张', id: ""}, 
       {name: '小李', id: "o9PqZ5lbmWRQzhPMOuFMGdrQvk5k"}, 
       {name: '李学林', id: "o9PqZ5kGOJ_okTYDGymiZaB5lY_Y"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
