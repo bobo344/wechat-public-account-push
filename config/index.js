@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "303e51c3c484854a9897f63c2f591b84",
 
     // 模板消息id
-    TEMPLATE_ID: "3nDaL_b5n7Jp1UsL4m6Amb-R3MeKoIBERyqRJwSTyjU",
+    TEMPLATE_ID: "pFSC9gV-mCtQTuCksmUhHjlshA5K9U7tj4AgCPWaqZo",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "",
@@ -83,7 +83,7 @@ export const config = {
       // 退伍日, 不用可以删掉
       {"keyword": "ex_day", date: "2022-08-31"},
       // sakana日
-      // {"keyword": "sakana_day", date: "2022-09-0"},
+       {"keyword": "sakana_day", date: "2022-09-0"},
       // ... 
     ],
 
