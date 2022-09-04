@@ -104,7 +104,7 @@ export const config = {
         "我想说两句话，已经说完了",
        
       ]},
-         {"keyword": "encourage_datsiu", contents: "1"},
+         {"keyword": "encourage_datsiu", contents: "0"},
     ],
 
     /** 每日一言  */
