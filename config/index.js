@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "303e51c3c484854a9897f63c2f591b84",
 
     // 模板消息id
-    TEMPLATE_ID: "iJoQiuW_frgcg1CXZMADR74lS6Y4ES45mYEp_2fLGMg",
+    TEMPLATE_ID: "IdPeQXk3DmSOTbqFjzFZ9sFc0PpMgAmn9aaI_-b5CHw",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "",
@@ -28,6 +28,7 @@ export const config = {
       {name: '小李', id: "o9PqZ5lbmWRQzhPMOuFMGdrQvk5k"}, 
      {name: '小郑', id: "o9PqZ5gQFFImvrCWo5smXZbGeh0A"}, 
           {name: '小杨', id: "o9PqZ5qtuFz4E6rT2g0dAGr11UoA"}, 
+           {name: '楠姐', id: "o9PqZ5n7UxTlXXFako-6xAZxAIl8"}, 
      
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
